@@ -30,8 +30,6 @@ At a minimum, your application should fulfill the following requirements:
   - [ ] A section that contains the anagrams in the dictionary of the selected word. An anagram is another word in the dictionary formed by rearranging the letters of another. For instance, CINEMA and ICEMAN are anagrams.
   - [ ] Each word in the related/anagram sections should be selectable and go to that word's detail screen
 
-## Bonus Points
-
 ## Submission Guidelines
 
 Please create a new repository on GitHub and send us a link. Do not fork this repository. Alternatively, you may send us an archive by [email](mailto:developer@hellotonic.com).
